@@ -9,7 +9,7 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
  
 ---
  
-## 🔭 What I'm working on
+## <img src="working.gif" width="40" align="center" alt=""> What I'm working on
  
 - **Fall 2026:** Python (pandas, scikit-learn), machine learning & NLP, predictive modeling in JMP Pro, SQL & R
 - 🎯 Looking for **Data Analyst / Business Analyst / Analytics Spring 2027 internship** opportunities
@@ -58,9 +58,7 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 - **M.S. Business Analytics** — University of the Pacific (expected May 2027)
 - **B.S. Management Information Systems** — Da Nang University of Economics (2022)
 
-## <p align="center">
-  <img src="connecting.gif" width="250" alt="Connecting animation">
-</p> Let's connect
+## <img src="connecting.gif" width="40" align="center" alt=""> Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/luckyng/)
-- ✉️ nhi.nnwn@gmail.com
+- [LinkedIn](https://linkedin.com/in/luckyng/)
+- Email: nhi.nnwn@gmail.com
