@@ -49,11 +49,11 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 
 ## Experience Highlights
 
-**Gear Inc.** (Vietnam) — Assistant Quality Manager → Senior QA → QA (2022–2025)
+**Gear Inc.** (Vietnam) — Quality Analysis → Senior Quality Analysis → Assistant Quality Manager (2022–2025)
 - Raised average accuracy across 8 projects from **97.0% → 98.9%**
 - Cut recurring input errors by **43.77%** vs. 2023; named **APAC Top Performer, Q4 2024**
 - Designed weekly KPI dashboards and led calibration sessions across QA, Operations, and client teams
-- - 🔗 [What I did?](https://github.com/luckynnmn/data-analytics-portfolio/tree/main/Quality-Management)
+- 🔗 [What I did?](https://github.com/luckynnmn/data-analytics-portfolio/tree/main/Quality-Management)
 
 ## Education
 
