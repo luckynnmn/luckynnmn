@@ -12,6 +12,8 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 ## <img src="working.gif" width="40" align="center" alt=""> What I'm working on
  
 - **Fall 2026:** Python (pandas, scikit-learn), machine learning & NLP, predictive modeling in JMP Pro, SQL & R
+      + Workshop 1: [EDA data quality pipeline](https://github.com/luckynnmn/eda-data-quality-pipeline)
+      + Workshop 2: [Linear regression application 1 and 2 features](https://github.com/luckynnmn/linear-Regression-application-1-2-features)
 - 🎯 Looking for **Data Analyst / Business Analyst / Analytics Spring 2027 internship** opportunities
 - 🎯 **Seeking full-time Data Analyst / Business Analyst / Analytics roles starting after my graduation in May 2027**
 
