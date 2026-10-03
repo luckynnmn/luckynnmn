@@ -15,7 +15,7 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 - 🎯 Looking for **Data Analyst / Business Analyst / Analytics Spring 2027 internship** opportunities
 - 🎯 **Seeking full-time Data Analyst / Business Analyst / Analytics roles starting after my graduation in May 2027**
 
-## 🛠️ Skills
+## Skills
 
 | Area | Tools & Methods |
 |---|---|
@@ -24,7 +24,7 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 | **Finance & Research** | WRDS, Compustat, ROA/ROE Ratio Analysis |
 | **Business** | KPI Development, Root Cause Analysis, Process Optimization, Cross-Functional Collaboration |
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 1. Inventory Management & Demand Forecasting Analysis
 `Power BI` `DAX`
@@ -45,7 +45,7 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 - Built a 3-year revenue forecast and linked algorithm design to revenue outcomes
 - 🔗 [View project](https://github.com/luckynnmn/data-analytics-portfolio/tree/main/Marketing-Strategy)
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 **Gear Inc.** (Vietnam) — Assistant Quality Manager → Senior QA → QA (2022–2025)
 - Raised average accuracy across 8 projects from **97.0% → 98.9%**
@@ -53,12 +53,14 @@ I turn messy operational and financial data into KPIs, dashboards, and decisions
 - Designed weekly KPI dashboards and led calibration sessions across QA, Operations, and client teams
 - - 🔗 [What I did?](https://github.com/luckynnmn/data-analytics-portfolio/tree/main/Quality-Management)
 
-## 🎓 Education
+## Education
 
 - **M.S. Business Analytics** — University of the Pacific (expected May 2027)
 - **B.S. Management Information Systems** — Da Nang University of Economics (2022)
 
-## 📫 Let's connect
+## <p align="center">
+  <img src="connecting.gif" width="250" alt="Connecting animation">
+</p> Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/luckyng/)
 - ✉️ nhi.nnwn@gmail.com
